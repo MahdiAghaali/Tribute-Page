@@ -22,6 +22,10 @@ p{
 #img-div{
     width: 60%;
 }
+img{
+    display:block;
+    max-width:2787px;
+}
 
 body,html{
     margin:0px;
